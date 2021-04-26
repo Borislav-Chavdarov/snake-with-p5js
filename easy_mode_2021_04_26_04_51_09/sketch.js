@@ -41,7 +41,7 @@ function endGameScreen() {
     fill(0)
     textSize(12);
      text("GAME OVER", 100, 100)
-    createA("https://editor.p5js.org/Borislav_Chavdarov/present/gkDijXjVc","menu", "_blank")
+    createA("https://borislav-chavdarov.github.io/snake-with-p5js/","menu", "_blank")
     noLoop();
   }
     
