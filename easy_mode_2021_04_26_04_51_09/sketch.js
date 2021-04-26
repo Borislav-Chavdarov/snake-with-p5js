@@ -1,5 +1,6 @@
 
 
+
 let snake;
 let rez = 20;
 let food;
