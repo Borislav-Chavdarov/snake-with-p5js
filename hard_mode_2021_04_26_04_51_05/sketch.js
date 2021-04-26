@@ -9,6 +9,8 @@ let h;
 let prevDirX;
 let prevDirY;
 
+
+
 function setup() {
   createCanvas(400, 400);
   w = floor(width / rez);
